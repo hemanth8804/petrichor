@@ -1,10 +1,21 @@
 
 body {
-  background-color: #E3F2FD;
+  background-image:url('hi.gif');
   
-  color: #2196F3;
+  color: mintcream;
   font-family: monospace;
+  
 }
 h1{
-  color : #0D47A1;
+  color : mintcream;
+  }
+
+
+ #amogus {
+
+  height : 200px;
+  float : left;
+
+
+
   }
