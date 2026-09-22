@@ -1,21 +1,35 @@
 
+  @font-face {
+    font-family: myFont;
+    src: url('amo.woff2') format('woff2');
+  }
+
+
 body {
   background-image:url('hi.gif');
-  
+background-size:cover;
   color: mintcream;
   font-family: monospace;
-  
-}
+
 h1{
+  font-family: myFont;
   color : mintcream;
+  
   }
 
-
- #amogus {
-
-  height : 200px;
-  float : left;
-
-
-
+p{
+  text-shadow:2px 2px 4px #000000;
   }
+  h4{
+    text-shadow:px 2px 4px #000000;
+  
+  }
+
+  i{
+    font-family: myFont;
+    text-shadow:px 2px 4px #000000;
+  
+  }
+}
+
+ 
