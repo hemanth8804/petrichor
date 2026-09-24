@@ -2,32 +2,47 @@
   @font-face {
     font-family: myFont;
     src: url('amo.woff2') format('woff2');
-    
   }
+
+
+
+  
+@font-face {
+  font-family: Quador;
+  src: url('Quador.otf') format('otf');
+}
+
+
+
 
 
 body {
   background-image:url('hi.gif');
 background-size:cover;
   color: mintcream;
-  font-family: monospace;
+  
 
 h1{
-  font-family: myFont;
+  
   color : mintcream;
   
   }
 
 p{
+  
   text-shadow:2px 2px 4px #000000;
   }
-  h4{
+
+
+
+h4{
+
     text-shadow:px 2px 4px #000000;
   
   }
 
   i{
-    font-family: myFont;
+    
     text-shadow:px 2px 4px #000000;
   
   }
